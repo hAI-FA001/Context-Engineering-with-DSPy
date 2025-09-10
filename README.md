@@ -47,8 +47,9 @@ Content:
   - Parallel Generation
   - Reflection
 - Evals, Guardrails, Monitoring
-  - MLFlow
   - Evals
+  - MLFlow
+  - Hyperparameters
   - LLMs as a Judge
   - ELO
 - Tool Calls and ReAct
