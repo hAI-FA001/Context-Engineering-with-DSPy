@@ -53,6 +53,7 @@ Content:
   - LLMs as a Judge
   - ELO
 - Tool Calls and ReAct
+  - Tools as Python Functions
   - Web Search
   - ReAct
   - File I/O
