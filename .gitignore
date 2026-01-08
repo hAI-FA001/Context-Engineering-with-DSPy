@@ -13,3 +13,4 @@ wheels/
 mlartifacts/
 *.csv
 *.txt
+*.npy
