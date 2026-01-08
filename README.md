@@ -62,6 +62,7 @@ Content:
 - RAG and Memory
   - Embeddings vs BM25
   - Reciprocal Rank Fusion
-  - HyDE
+  - HyDE - Hypothetical Queries
   - Multi-Hop Search
-  - Memory Systems and Mem0
+  - Memory Systems
+  - Mem0
